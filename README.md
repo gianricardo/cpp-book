@@ -1,2 +1,2 @@
-# cpp-book
-C++ Book
+# C++ Book
+Book About C++ code.
